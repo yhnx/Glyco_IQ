@@ -275,7 +275,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ## By
 <!-- Placeholder for Team Logo -->
-![Team Logo](artifiacts/synop.png)
+![Team Logo](artifacts/synop.png)
 Team Synop
 
 ## Contact
