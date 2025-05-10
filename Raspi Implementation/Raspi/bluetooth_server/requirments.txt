@@ -1,6 +1,0 @@
-numpy
-opencv-python-headless
-tflite-runtime
-RPi.GPIO
-dbus-python
-pygobject
